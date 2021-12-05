@@ -5,3 +5,9 @@ Google Colab links -
 
 # Result 
 https://youtu.be/nCPF3InHGHg
+
+
+
+### Comparing Results
+
+![](https://github.com/Karthikeya-t/object_detection/blob/main/output_images/yolov3%20v4.gif)
